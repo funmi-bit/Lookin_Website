@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\crystal"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "look in"
+	}
+}

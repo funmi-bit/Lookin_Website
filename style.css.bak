@@ -1,0 +1,12 @@
+
+div{
+	background-image: url(shopping.jpg);
+	background-position: center;
+    background-size: cover;
+	background-repeat: no-repeat ;
+}
+
+a{
+	float: right;
+	color: black;
+}

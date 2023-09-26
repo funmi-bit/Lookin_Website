@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+     <meta charset = "UTF-8">  
+     <title>LOOK IN</title> 
+     <link href = "style.css" rel ="stylesheet" type = "text/css">
+     <img src ="shopping.jpg" width = "450" height = "200">
+    </head>
+    <body> 
+       
+        <div>
+        <h1 class ="head">LOOK IN SHOPPING MALL</h1>
+        <p>Inside our shopping center is where heart desires are fufiled. </p>
+
+
+        </div>
+        
+    </body>
+</html>
